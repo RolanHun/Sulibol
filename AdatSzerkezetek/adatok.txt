@@ -1,0 +1,8 @@
+Péter;Budapest;33
+Pál;Budapest;23
+Pál;Budapest;55
+Pál;Vác;23
+Pisti;Érd;31
+Feri;Miskolc;45
+Xénia;Göd;23
+Gizi;Érd;19
